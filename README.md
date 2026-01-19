@@ -51,6 +51,7 @@ The code is platform-independent and runs on macOS, Linux, and Windows.
 │
 ├── solution-summary.md
 └── README.md
+```
 
 ## How to Run
 
