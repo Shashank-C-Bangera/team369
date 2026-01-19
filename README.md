@@ -31,6 +31,11 @@ The code is platform-independent and runs on macOS, Linux, and Windows.
 ├── client.py
 ├── agent-configs/
 │   ├── ws2526.1.2.1.json
+│   ├── ws2526.1.2.2.json
+│   ├── ws2526.1.2.3.json
+│   ├── ws2526.1.2.4.json
+│   ├── ws2526.1.2.5.json
+│   ├── ws2526.1.2.6.json
 │   ├── ws2526.1.2.7.json
 │   └── ws2526.1.2.8.json
 │
